@@ -1,2 +1,2 @@
-cd - changes directory
-ls - list files
+script that prints the absolute path name of the current working directory.
+
